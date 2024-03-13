@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "code": "1a37",
+    "title": "Funda para motos",
+    "description": "hasta 1000cc",
+    "price": 1100,
+    "thumbnail": "imagen sin cargar",
+    "stock": 19
+  },
+  {
+    "id": 3,
+    "code": "23sv",
+    "title": "camperas",
+    "description": "Calidad de Cuero",
+    "price": 1500,
+    "thumbnail": "sin imagen",
+    "stock": 20
+  }
+]
